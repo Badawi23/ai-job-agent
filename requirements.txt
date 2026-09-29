@@ -1,0 +1,5 @@
+OPENAI_API_KEY=
+AI_CLASSIFIER_MODEL=gpt-4o-mini
+AI_ANALYSIS_MODEL=gpt-4o
+AI_PROPOSAL_MODEL=gpt-4o-mini
+DATABASE_URL=sqlite:///ai_job_agent.db
