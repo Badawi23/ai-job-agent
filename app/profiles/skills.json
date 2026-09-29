@@ -1,0 +1,62 @@
+{
+  "Embedded C": {
+    "category": "Firmware",
+    "level": 5,
+    "years_experience": 2,
+    "preferred": true
+  },
+  "STM32": {
+    "category": "Microcontroller",
+    "level": 4,
+    "years_experience": 2,
+    "preferred": true
+  },
+  "PIC18": {
+    "category": "Microcontroller",
+    "level": 5,
+    "years_experience": 2,
+    "preferred": true
+  },
+  "UART": {
+    "category": "Communication",
+    "level": 5,
+    "years_experience": 2,
+    "preferred": true
+  },
+  "I2C": {
+    "category": "Communication",
+    "level": 5,
+    "years_experience": 2,
+    "preferred": true
+  },
+  "SPI": {
+    "category": "Communication",
+    "level": 4,
+    "years_experience": 2,
+    "preferred": true
+  },
+  "Python": {
+    "category": "Automation",
+    "level": 3,
+    "years_experience": 1,
+    "preferred": true
+  },
+  "Git": {
+    "category": "Tooling",
+    "level": 4,
+    "years_experience": 2,
+    "preferred": true
+  },
+  "Firmware": {
+    "category": "Firmware",
+    "level": 5,
+    "years_experience": 2,
+    "preferred": true
+  },
+  "Technical Documentation": {
+    "category": "Documentation",
+    "level": 4,
+    "years_experience": 2,
+    "preferred": true
+  }
+}
